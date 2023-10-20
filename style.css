@@ -1,11 +1,12 @@
 body {
-    background-image: black;
+    background-image: url(bg.jpg);
 }
 
-img{
+.center{
+    display: block;
     width: 280px;
-    height: auto;
     margin: auto;
+    padding: 0%;
 }
 
 .container{
@@ -21,4 +22,15 @@ img{
     height: 50%;
     margin: auto;
     padding:center;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+h3{
+    color: aliceblue;
+}
+
+.mine{
+    color: aliceblue;
 }
