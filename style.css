@@ -1,0 +1,13 @@
+body {
+    background-image: url(bg.jpg);
+}
+
+p {
+    font-size: 20px;
+    color: black;
+}
+
+img{
+    width: 280px;
+    height: auto;
+}
