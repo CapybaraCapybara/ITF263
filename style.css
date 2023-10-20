@@ -2,12 +2,22 @@ body {
     background-image: url(bg.jpg);
 }
 
-p {
-    font-size: 20px;
-    color: black;
-}
-
 img{
     width: 280px;
     height: auto;
+    margin: auto;
+}
+
+.container{
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+.self{
+    text-align: center;
+    border: 2px solid whitesmoke;
+    width: 50%;
+    height: 50%;
+    margin: auto;
 }
